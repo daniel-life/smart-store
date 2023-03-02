@@ -1,0 +1,27 @@
+C:\Users\mingw\source\repos\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\mingw\source\repos\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mingw\source\repos\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mingw\source\repos\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

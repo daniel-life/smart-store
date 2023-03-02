@@ -1,0 +1,632 @@
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\WebGrease.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CopyComplete
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\mingw\source\repos\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\WebGrease.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CopyComplete
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\AjaxControlToolkit.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\WebGrease.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\muhdf\Downloads\InventoryCRUD fully integrated\InventoryCRUD fully integrated\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.pdb
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\WebGrease.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\muhdf\OneDrive\Desktop\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\WebGrease.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CopyComplete
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.pdb
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\WebGrease.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CopyComplete
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\mingw\source\repos\InventoryCRUD fully integrated (2)\InventoryCRUD fully integrated (1)\InventoryCRUD\InventoryCRUD\obj\Debug\InventoryCRUD.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\AjaxControlToolkit.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\WebGrease.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CopyComplete
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\InventoryCRUD\obj\Debug\InventoryCRUD.pdb
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\InventoryCRUD.dll.config
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\InventoryCRUD.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\InventoryCRUD.pdb
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\csc.exe
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\csc.exe.config
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\csc.rsp
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\csi.exe
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\csi.exe.config
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\csi.rsp
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Console.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Net.Http.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Net.Sockets.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\vbc.exe
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\vbc.exe.config
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\vbc.rsp
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Antlr3.Runtime.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\BusinessLogicLayer.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\DataAccessLayer.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\System.Web.Optimization.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\WebGrease.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\BusinessLogicLayer.pdb
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\DataAccessLayer.pdb
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\DataAccessLayer.dll.config
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\System.Web.Optimization.xml
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Newtonsoft.Json.xml
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Antlr3.Runtime.pdb
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\obj\Debug\InventoryCRUD.csproj.CopyComplete
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\obj\Debug\InventoryCRUD.dll
+C:\Users\danie\source\repos\SmartStore\InventoryCRUD\obj\Debug\InventoryCRUD.pdb

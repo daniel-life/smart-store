@@ -1,0 +1,40 @@
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\mingw\source\repos\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD fully integrated\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\65850\Downloads\InventoryCRUD fully integrated (1)\InventoryCRUD\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\danie\source\repos\InventoryCRUD final\InventoryCRUD final\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
